@@ -1,0 +1,2 @@
+# geotecniapuno
+SERVICIO DE LABORATORIO
